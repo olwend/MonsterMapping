@@ -1,0 +1,2 @@
+module MonsterApiHelper
+end
